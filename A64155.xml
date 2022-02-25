@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The art of good husbandry, or, The improvement of time being a sure way to get and keep money. Wherein is prescribed several ruls [sic] for merchants, shop-keepers, and mechanick tradesmen, (as well servants as masters) how they may husband their time to the best advantage; the loss whereof is the sole cause of poverty in this city and nation. Likewise the loss of a mans time spent in a tavern, coffee-house, or ale-house, computed. Also instructions to all sorts of people, how to order their business for the future, both to the enriching of themselves and their families. In a letter to Mr. R.A. by R.T. With permission, August 7th 1675. Roger L'Estrange.</title>
+            <author>R. T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64155</idno>
+            <idno type="STC">Wing T43</idno>
+            <idno type="STC">ESTC R219148</idno>
+            <idno type="EEBO-CITATION">99830667</idno>
+            <idno type="PROQUEST">99830667</idno>
+            <idno type="VID">35120</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64155)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35120)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2080:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The art of good husbandry, or, The improvement of time being a sure way to get and keep money. Wherein is prescribed several ruls [sic] for merchants, shop-keepers, and mechanick tradesmen, (as well servants as masters) how they may husband their time to the best advantage; the loss whereof is the sole cause of poverty in this city and nation. Likewise the loss of a mans time spent in a tavern, coffee-house, or ale-house, computed. Also instructions to all sorts of people, how to order their business for the future, both to the enriching of themselves and their families. In a letter to Mr. R.A. by R.T. With permission, August 7th 1675. Roger L'Estrange.</title>
+                  <author>R. T.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year, 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Time management --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="text">
+            <pb facs="tcp:35120:1" rendition="simple:additions"/>
+            <pb facs="tcp:35120:1"/>
+            <p> The ART of Good Husbandry, Or, the Improvement of TIME: Being a ſure way to get and keep MONEY.</p>
+            <p>WHEREIN Is preſcribed ſeveral RULS for <hi>Merchants, Shop-Keepers,</hi> and <hi>Mechanick Tradeſmen,</hi> (as well Servants as Maſters) how they may Husband their TIME to the beſt advan<g ref="char:EOLhyphen"/>tage; the Loſs whereof is the ſole Cauſe of Poverty in this City and Nation.</p>
+            <p>LIKEWISE The loſs of a Mans TIME ſpent in a <hi>Tavern, Coffee-houſe,</hi> or <hi>Ale-houſe,</hi> Computed. Alſo Inſtructions to all ſorts of People, how to order their Buſineſs for the future, both to the enriching of Themſelves and their Families.</p>
+            <p>In a Letter to Mr. <hi>R. A.</hi> By <hi>R. T.</hi>
+            </p>
+            <p>With Permiſſion, Auguſt 7<hi rend="sup">th</hi> 1675. <hi>Roger L'Eſtrange.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. G.</hi> in the Year, 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:35120:2"/>
+            <pb facs="tcp:35120:2"/>
+            <head>The Art of Good Huſbandry, or the im<g ref="char:EOLhyphen"/>provement of TIME; being a ſure way to get and keep MONEY: In a <hi>Letter</hi> to a Friend.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN Complyance to your late Requeſts, obliging me to write to you as ſoon as I came to <hi>London,</hi> I have ſent you the reſult of a few ſerious Minutes concerning the great de<g ref="char:EOLhyphen"/>cay of Trade and want of Money; which is now the gene<g ref="char:EOLhyphen"/>ral Cry of all people both in City and Country; the Grounds and Reaſons of which, many have attempted to find out, by curious Inquiries into the ſeveral Laws and Statutes made for the promoting of TRADE, ſuppoſing the non-execu<g ref="char:EOLhyphen"/>tion of thoſe Laws to be the occaſion of it, To this end large diſcourſes have been made concerning the Decay of the <hi>Fiſhing-Trade,</hi> ſeveral Propoſals offered by ingenious perſons for the reſtoration of it; and the great Advantages that would enſue thereupon; with the many Damages deſtructive to Trade in general, that ariſe from the Inquiries into the <hi>Wooll-Trade,</hi> al<g ref="char:EOLhyphen"/>ledging the Exporation of Wooll, the Importation of Forraine Manufactory, and the permiſſion of Forrainers to work here, to be the chief cauſe of that decay of TRADE and want of MONEY which every perſon complains of.</p>
+            <p>Now though the Grounds and Reaſons before mentioned are guarded with ſo many Probabilities, and ſeeming rational De<g ref="char:EOLhyphen"/>monſtrations, that every underſtanding perſon will be ready at the firſt view, to hold up hir finger and give his Aſſent to them; yet upon critical Inſpection, or more curious Survey, we ſhall find them to be only Circumſtantial.</p>
+            <pb n="2" facs="tcp:35120:3"/>
+            <p> There is ſomething more material which is near us, that we overlook by looking ſo far off; that is, The little Value or Price we ſet upon that ineſtimable Jewel TIME, which moſt people ſlight like the <hi>Cock</hi> in the <hi>Fable,</hi> if they cannot make uſe of it to ſatisfie their Laſcivious Appetites. It is the induſtrious Hand that enricheth the Land, and not the contriving Pate. The Waſps and Hornets, by their Rapine, bring to their Neſts more Honey at once, then the induſtrious Bees can at many times; and yet <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or all this, they uſually dye for want in the Win<g ref="char:EOLhyphen"/>ter; whileſt the induſtrious Bees by continual Labour and im<g ref="char:EOLhyphen"/>provement of TIME, gather ſufficient to ſerve themſelves in the Winter, and can afford their Maſters a liberal Share o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of their plentiful Stock.</p>
+            <p>I ſhall firſt begin with the <hi>Inferiour Rank</hi> of <hi>People,</hi> for thoſe are the perſons moſt concerned in this general Complaint, and ſhew them how they may remedy what they complain of.</p>
+            <p>Firſt, Let them be diligent and induſtrious in their ſeveral Trades and Callings.</p>
+            <p>Secondly, Let them avoid all ſuch idle Society that ſquander away a great deal of TIME at a cheap rate.</p>
+            <p>I ſhall inſtance in thoſe Sober and Civil Conventions, as at <hi>Coffee-Houſes</hi> and <hi>Clubs,</hi> where little Money is pretended to be ſpent, but a great deale of precious Time loſt, which the perſon never thinks of, but meaſures his Expences by what goes out of his Pocket; Nor conſiders what he might have put in by his Labour, and what he might have ſaved, being employed in his Shop. As for Example:</p>
+            <p>A Mechanick Tradeſman, it may be; goes to the <hi>Coffee-Houſe</hi> or <hi>Ale-Houſe</hi> in the Morning, to drink his Mornings Draught, where he ſpends Two-pence, and in Smoaking and Talking, conſumes at leaſt an Hour: In the Evening, about Six a Clock, he goes to his Two-penny Club, and there ſtayes for his Two<g ref="char:EOLhyphen"/>pence till Nine or Ten: here is Four Pence ſpend, and Four Hours at leaſt loſt, which in moſt Mechanick Trades, cannot be
+<pb n="3" facs="tcp:35120:3"/> reckoned leſs then a Shilling; and if he keep Servants, they may loſe him near as much by idling, or ſpoyling his Goods, which his preſence might have prevented. So that upon theſe Conſiderations, for this his ſuppoſed Groat, (a Dayes expence) he cannot reckon leſs then Seven Groats; which comes to Fourteen Shillings a Week (Sundays excepted,) which is Thir<g ref="char:EOLhyphen"/>ty ſix pound ten ſhillings a year. A great deal of Money in a poor Tradeſmans Pocket,</p>
+            <p>Now the ſame may be applied to the higher Trades and Pro<g ref="char:EOLhyphen"/>feſſions, whoſe loſs of TIME is according to the Degrees or Spheres they move in; and yet this is the leaſt thing thought of. We are apt to favour and excuſe our ſelves, and impute a general Calamity to things afar off, when we our ſelves are the occaſion of it at home.</p>
+            <p>It will be neceſſary before I proceed, to take notice of one <hi>Objection,</hi> which ſeems to be moſt material, <hi>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z.</hi> That ſome mens buſineſs lies Abroad, and cannot be ſo well managed at Home, and that theſe Meetings or Societies are advantagious to them. As firſt, Merchants by theſe <hi>Clubs</hi> or <hi>Meetings</hi> have Intelligence of Ships going out and coming in; and alſo of the Rate and Prices of Commodities, and meet with Cuſtomers by accident, which poſſibly might never make inquiry at their Houſes or Ware-houſes. The like Excuſes all men of Buſineſs and Trade pretend.</p>
+            <p>To this I anſwer: That indulging this Cuſtome, hath made it, ſeemingly Neceſſary; but yet there is no abſolute neceſſity for it: for the <hi>Exchange</hi> is appointed for the Merchants Intelli<g ref="char:EOLhyphen"/>gence, and his Ware-houſe is his Shop. And to other Tradeſ<g ref="char:EOLhyphen"/>men, their Shops are their Markets; to which, if they would be reſerved, they might better themſelves, and improve that TIME they ſpend in Taverns and Coffee-Houſes, to a greater advantage: For by theſe idle Meetings they loſe not only what they ſpend, but what might be improved by the overſeeing their Goods, and examining their Accounts, which they now wholly
+<pb n="4" facs="tcp:35120:4"/> truſt to the Fidelity of a Servant or Servants; who being led by their Maſters Examples, grow idle and extravagant; and know<g ref="char:EOLhyphen"/>ing their Maſters ſure, make ſure for themſelves; furniſhing themſelves for their debauched Aſſignations, and now plot and invent the means and wayes for their extravagant Meetings, which are the occaſion and ruine of many Maſters, and hopeful Servants; all which might be prevented by the diligent eye of the Maſter; the want of which, is the occaſion of all the De<g ref="char:EOLhyphen"/>bauchery, Poverty and Miſery which every place cryes out of. From this negligence and loſs of TIME comes many more in<g ref="char:EOLhyphen"/>conveniencies, that heaps on Poverty, and entailes it upon them<g ref="char:EOLhyphen"/>ſelves and Generations.</p>
+            <p>From theſe <hi>Clubs</hi> and <hi>Societies</hi> (how Civil ſoever they appear to be) it is impoſſible in any ſuch Meeting, but ſome of them are given to Vice; and it is probable, the greateſt part: by this means is introduced Gaming, Fooliſh Wagers, Wenching, Swearing, and other Debaucheries. And uſually at parting, or breaking up of theſe Clubs, they divide themſelves according to their ſeveral Inclinations or Diſpoſitions; ſome go to a Ta<g ref="char:EOLhyphen"/>vern, ſome to a convenient place for Gaming, others to a Bawdy-Houſe, by which means the Family is neglected, and not go<g ref="char:EOLhyphen"/>verned as it ought to be; the Wife (though poſſibly a very vir<g ref="char:EOLhyphen"/>tuous and careful Houſewife) exaſperated by the extravagancies of h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Husband, and foreſeeing Poverty and Want attending her and her Children, growes deſperate; and, it may be, yeilds to ſome Temptations that are too too common in theſe dayes; by which means, oftentimes an Eſtate that was gathered by Grains, is ſcattered abroad by Buſhels.</p>
+            <p>The Servants too, by theſe Examples, fall into the ſame Vi<g ref="char:EOLhyphen"/>ces, and many times ruine both themſelves and their Friends, who have ſtrained their Eſtates to the utmoſt, to get them into thoſe places, and engaged their Friends for their Fidelity, hoping that their Induſtry might afterwards make them ſome retalliati<g ref="char:EOLhyphen"/>on; all which is fruſtrated, and they become Vagrants and Ex<g ref="char:EOLhyphen"/>travagants,
+<pb n="5" facs="tcp:35120:4"/> by which means City and Country are filled with ſo many idle perſons, that live only by Spoyle and Rapine; or like Droans, feeding upon others Labours; the greateſt part of their buſineſs being to undo what others do; and to deviſe or contrive ways to coſen, ſupplant or cheat each other; accounting it as lawful to get Twenty Shillings by Cheating or Playing, as by the moſt honeſt and induſtrious labour; ſo that by this means our Commodities, which might be employed by induſtrious Manufactory, lie waſte; and no wonder that we complain for want of TRADE, when the hands that ſhould be employed about it, are idle; for if a ſtrict inquiry were made into the City and Suburbs, of all the perſons that are capable of work, either in the <hi>Wooll</hi> or <hi>Fiſhing-Trade,</hi> as Men, Women, and Children from ſeven years upwards, that are now all together idle, or nor employed to any purpoſe in Trade, there would not be found leſs than an Hundred and fifty thouſand, that live like Droans, feeding upon the Stock of others Labours.</p>
+            <p>Now, it is our own negligence and idleneſs that brings Po<g ref="char:EOLhyphen"/>verty upon us; for if theſe idle perſons were employed, we need not cry out of the <hi>Exportation</hi> of <hi>Wooll,</hi> neither would induſtri<g ref="char:EOLhyphen"/>ous Forrainers have that encouragement to work here, if we would mind it our ſelves; but, if we will not improve our Ma<g ref="char:EOLhyphen"/>nufactory, we cannot blame others for doing of it.</p>
+            <p>Now it will be ſuppoſed, that if thoſe Laws for ſetting idle people to work, puniſhing Vagrants, rectifying diſorders in pub<g ref="char:EOLhyphen"/>lick Houſes, all this might be prevented: This commonly is our <hi>Laſt Shift,</hi> and thus are we apt to excuſe our ſelves, and lay the burden of our own faults upon the ſhoulders of our Governours; we may be very ſenſible, that we have in this Kingdom as good Laws as in any place in the World; we live under ſuch a King, that for Prudence and Wiſdom, no Empire or Kingdom can make compariſon withus; nor can Laws be better executed than in this Kingdom: But it is impoſſible that the eye of Magiſtra<g ref="char:EOLhyphen"/>cy can ſee into every Corner; every ſingle perſon hath a Cor<g ref="char:EOLhyphen"/>poration
+<pb n="6" facs="tcp:35120:5"/> within himſelf, every Family is a petty Principality, of which the Maſter or Miſtreſs is Vicegerent; it lies upon eve<g ref="char:EOLhyphen"/>ry Private Perſon to put in execution thoſe Laws of Nature within himſelf, that will inform him what he ought to do, and what he ought not to do. Every Governour or Governeſs of a Family, ſhould take care by their good examples, to inſtruct their Families; and ſeverely to puniſh ſuch Diſorders as ſhall be committed in their Houſe or Houſes, as far as their power doth extend; the remainder they may leave to the Magiſtrates, who will not be wanting on their parts.</p>
+            <p>Now ſince every one is guilty, let us endeavour to mend, and no longer complain of Want, ſince it is in our power to enrich our ſelves and our Country. <hi>The induſtrious Hand needs not make a Leg to Fortune for Wealth; Nor the honeſt Heart bend his knee to Fla<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ry, to gain him a Reputation.</hi> Theſe are the Heads of what afterwards I ſhall preſent you with, methodically handled in a Treatiſe, which as this finds acceptance, will ere long ſee the light.</p>
+            <closer>
+               <signed>In the mean time I am Yours to command, R. T.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35120:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
